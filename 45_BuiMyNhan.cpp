@@ -1,2 +1,2 @@
 #include
-cout<<a;
+cout<<a + "nhanh test-new thay doi";
