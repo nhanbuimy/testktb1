@@ -1,1 +1,2 @@
 cout<<a;
+cout<<"main";
